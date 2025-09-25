@@ -87,5 +87,26 @@
 - [x] Completed task
 - [ ] Incompleted task
 
+### ***Tables*** 
+
+| Header 1 | Header 2 | Header 3 |
+| ---------| ---------|----------|
+| Row 1 col 1 | row 1 col 2 | row 1 col 3 |
+| Row 2 col 1 | row 2 col 2 | row 2 col 3 |
+| Row 3 col 1 | row 3 col 3 | Row 3 col 3 |
+
+***Emoji*** 
+
+:Smile:
+
+:heart:
+
+:+1:
+
+***Mentions and references***
+
+@username <! -- mention a user -->
+
+#123      <! -- reference an issue or pr -->
 
       
